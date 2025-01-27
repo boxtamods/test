@@ -1,0 +1,5 @@
+Establece Noteskin para ambos lados en un png y xml que se encuentra en mods/imágenes
+valor 1: el nombre del Noteskin
+valor 2: las Salpicaduras de Noteskin (Opcional)
+si está en blanco no hará nada
+NO CAMBIARÁ LAS NOTAS PERSONALIZADAS NI SUS SALPICADURAS

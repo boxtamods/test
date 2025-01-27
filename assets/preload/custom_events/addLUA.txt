@@ -1,0 +1,3 @@
+Flip note?
+
+Value 1: invert <-> return

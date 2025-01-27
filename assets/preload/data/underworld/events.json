@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "Tierra de Gatos Por La Noche",
+		"player1": "bf",
+		"player2": "kalisa",
+		"player3": null,
+		"events": [
+			[
+				36455,
+				[
+					[
+						"Change Character",
+						"bf",
+						"purbf"
+					]
+				]
+			],
+			[
+				36455,
+				[
+					[
+						"Change Character",
+						" 2",
+						"gfno"
+					]
+				]
+			],
+			[
+				36455.6962025317,
+				[
+					[
+						"Change Character",
+						" 1",
+						"ks"
+					]
+				]
+			],
+			[
+				36456,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				36459,
+				[
+					[
+						"noteskinchange",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				60758,
+				[
+					[
+						"Change Character",
+						" 1",
+						"kalisa"
+					]
+				]
+			],
+			[
+				60758,
+				[
+					[
+						"Change Character",
+						" 2",
+						"gf_twin"
+					]
+				]
+			],
+			[
+				60758,
+				[
+					[
+						"Change Character",
+						"purbf",
+						"bf"
+					]
+				]
+			],
+			[
+				60759.4936708861,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				97214,
+				[
+					[
+						"Change Character",
+						" 1",
+						"ks"
+					]
+				]
+			],
+			[
+				97214,
+				[
+					[
+						"Change Character",
+						" 2",
+						"gfno"
+					]
+				]
+			],
+			[
+				97214,
+				[
+					[
+						"Change Character",
+						"bf",
+						"purbf"
+					]
+				]
+			],
+			[
+				97215.1898734178,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				145821,
+				[
+					[
+						"Change Character",
+						"purbf",
+						"bf"
+					]
+				]
+			],
+			[
+				145821,
+				[
+					[
+						"Change Character",
+						" 2",
+						"gf_twin"
+					]
+				]
+			],
+			[
+				145821,
+				[
+					[
+						"Change Character",
+						" 1",
+						"kalisa"
+					]
+				]
+			],
+			[
+				145822.784810127,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GF_twin",
+		"bpm": 158,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Underworld"
+	}
+}

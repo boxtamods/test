@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"newton",
+			"unknow",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Destiny",
+			"unknow",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Peace",
+			"unknow",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "y",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "somewhere",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

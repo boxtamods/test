@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-437,
+				191
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle00"
+		},
+		{
+			"offsets": [
+				-493,
+				196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left00"
+		},
+		{
+			"offsets": [
+				-470,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down00"
+		},
+		{
+			"offsets": [
+				-526,
+				217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up00"
+		},
+		{
+			"offsets": [
+				-455,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right00"
+		},
+		{
+			"offsets": [
+				-563,
+				209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left MISS00"
+		},
+		{
+			"offsets": [
+				-466,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up MISS00"
+		},
+		{
+			"offsets": [
+				-444,
+				132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right MISS00"
+		},
+		{
+			"offsets": [
+				-505,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss00"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Galaxy-Bf",
+	"position": [
+		-100,
+		260
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-210,
+		-490
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

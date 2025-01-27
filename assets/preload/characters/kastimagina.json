@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kastimagina Idle00"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kastimagina Down00"
+		},
+		{
+			"offsets": [
+				83,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kastimagina Left00"
+		},
+		{
+			"offsets": [
+				-58,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kastimagina Right00"
+		},
+		{
+			"offsets": [
+				42,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kastimagina Up00"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				240
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "jumpright00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				139
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "jumpdown00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "jumpleft00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				260
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "jumpup00",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Kastimagina",
+	"position": [
+		200,
+		430
+	],
+	"healthicon": "ali",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		250
+	],
+	"camera_position": [
+		-160,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2,
+	"_editor_isPlayer": false
+}

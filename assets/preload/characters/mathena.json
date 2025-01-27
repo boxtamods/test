@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mathena_Idle.swf00"
+		},
+		{
+			"offsets": [
+				9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mathena_Down.swf00"
+		},
+		{
+			"offsets": [
+				76,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mathena_Left.swf00"
+		},
+		{
+			"offsets": [
+				-67,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mathena_Right.swf00"
+		},
+		{
+			"offsets": [
+				-66,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mathena_up.swf00"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/mathena",
+	"position": [
+		190,
+		360
+	],
+	"healthicon": "ali2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		135
+	],
+	"camera_position": [
+		-120,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

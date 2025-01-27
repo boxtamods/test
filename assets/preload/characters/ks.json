@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kalisa Type χχ down00"
+		},
+		{
+			"offsets": [
+				-81,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kalisa Type χχ left00"
+		},
+		{
+			"offsets": [
+				3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kalisa Type χχ right00"
+		},
+		{
+			"offsets": [
+				-176,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kalisa Type χχ up00"
+		},
+		{
+			"offsets": [
+				-4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kalisa Type χχ idle00"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Kal",
+	"position": [
+		90,
+		310
+	],
+	"healthicon": "waifuxt",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		0,
+		70
+	],
+	"camera_position": [
+		-230,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

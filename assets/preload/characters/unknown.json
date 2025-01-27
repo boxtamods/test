@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				82
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "unknown Left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "unknown Up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				168
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "unknown Right00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "unknown_Down00",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-91,
+				150
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "hey",
+			"indices": [],
+			"name": "unknown IdleA00"
+		},
+		{
+			"offsets": [
+				30,
+				140
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "hey2",
+			"indices": [],
+			"name": "unknown IdleB00"
+		},
+		{
+			"offsets": [
+				46,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "unknown Idle00"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/unknown",
+	"position": [
+		-160,
+		150
+	],
+	"healthicon": "unknow",
+	"flip_x": false,
+	"healthbar_colors": [
+		166,
+		46,
+		255
+	],
+	"camera_position": [
+		-150,
+		-350
+	],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

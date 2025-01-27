@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kalifa idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kalifa down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kalifa right00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-176,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kalifa up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kalifa left00",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Kalisa",
+	"position": [
+		110,
+		310
+	],
+	"healthicon": "waifu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		230,
+		236
+	],
+	"camera_position": [
+		-230,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

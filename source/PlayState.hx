@@ -1134,10 +1134,12 @@ class PlayState extends MusicBeatState
 		if(ClientPrefs.downScroll) {
 			botplayTxt.y = timeBarBG.y - 78;
 		}
-
+	        var creditTxt = new FixText(876,648, 348):
+                creditTxt,text = port by boxtamods" ; creditTxt.setformat(paths.fonts("vcr.ttf"),30 fixcolor.WHlTH, RIGH ,FixTextBorderSty.OUTLINE.Fixcolor.BLACK);
 		strumLineNotes.cameras = [camHUD];
 		grpNoteSplashes.cameras = [camHUD];
 		notes.cameras = [camHUD];
+                creditTxt.cameras = [camHUD];
 		healthBar.cameras = [camHUD];
 		healthBarBG.cameras = [camHUD];
 		iconP1.cameras = [camHUD];
